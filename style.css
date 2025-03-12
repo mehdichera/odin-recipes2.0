@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 650px;
+}
+ul{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
